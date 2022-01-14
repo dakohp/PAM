@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AplikacjaZaliczeniowa</string>
+    <string name="buttoFirst">Plan zajęć</string>
+    <string name="buttonSecond">Oceny</string>
+    <string name="textViewFirstActivity">Aktywność 1</string>
+    <string name="textViewSecondActivity">Aktywność 2</string>
+    <string name="buttonAddDataSubject">Dodaj / usuń przedmiot</string>
+    <string name="buttonSaveDataSubject">Dodaj</string>
+    <string name="buttonDeleteDataSubject">Usuń</string>
+    <string name="textViewSurname">Imie</string>
+    <string name="textViewName">Nazwisko</string>
+    <string name="textViewSubject">Przedmiot</string>
+    <string name="textViewTypeSubject">Typ przedmiotu</string>
+    <string name="textViewDayOfWeek">Dzień tygodnia</string>
+    <string name="textViewTime">Godzina</string>
+    <string name="textViewRoom">Sala</string>
+    <string name="textViewMonday">Poniedziałek</string>
+    <string name="textViewTuesday">Wtorek</string>
+    <string name="textViewWednesday">Środa</string>
+    <string name="textViewThursday">Czwartek</string>
+    <string name="textViewFriday">Piątek</string>
+    <string name="buttonFindSubject">Szukaj</string>
+    <string name="butttonAddGrade">Dodaj ocene</string>
+    <string name="textViewGrade">Ocena</string>
+    <string name="textEditFindSubject">Wpisz przedmiot</string>
+    <string name="textEditFindTypeSubject">Wpisz typ przedmiotu</string>
+    <string name="textEditAddGrade">Wpisz ocene po znalezieniu</string>
+    <string name="buttonAvarage">Średnia</string>
+    <string name="buttonAvarageAdd">Dodaj do średniej</string>
+    <string name="buttonAvarageCalc">Policz średnią</string>
+
+
+    <string-array name="Day">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+    </string-array>
+
+    <string-array name="TypeSubject">
+        <item>Wykład</item>
+        <item>Semianarium</item>
+        <item>Laboratorium</item>
+
+    </string-array>
+
+    <string-array name="AcademicDegreee">
+        <item>mgr</item>
+        <item>dr</item>
+        <item>dr. hab.</item>
+        <item>prof.</item>
+
+    </string-array>
+
+    <string-array name="Time">
+        <item>07:30</item>
+        <item>08:20</item>
+        <item>09:10</item>
+        <item>10:00</item>
+        <item>10:50</item>
+        <item>11:40</item>
+        <item>12:30</item>
+        <item>13:20</item>
+        <item>14:10</item>
+        <item>15:00</item>
+        <item>15:50</item>
+        <item>16:40</item>
+        <item>17:30</item>
+        <item>18:20</item>
+        <item>19:10</item>
+        <item>20:00</item>
+        <item>20:50</item>
+
+    </string-array>
+</resources>

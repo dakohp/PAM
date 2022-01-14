@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikacjaZaliczeniowa</string>
+    <string name="buttoFirst">Schedule</string>
+    <string name="buttonSecond">Grades</string>
+    <string name="textViewFirstActivity">Activity 1</string>
+    <string name="textViewSecondActivity">Activity 2</string>
+    <string name="buttonAddDataSubject">Add / delete subcjet</string>
+    <string name="buttonSaveDataSubject">Add</string>
+    <string name="textViewSurname">Surnam</string>
+    <string name="textViewName">Name</string>
+    <string name="textViewSubject">Subject</string>
+    <string name="textViewTypeSubject">Type of Subject</string>
+    <string name="textViewDayOfWeek">Day of Week</string>
+    <string name="textViewTime">Time</string>
+    <string name="textViewMonday">Monday</string>
+    <string name="textViewTuesday">Tuesday</string>
+    <string name="textViewWednesday">Wendesday</string>
+    <string name="textViewThursday">Thursday</string>
+    <string name="textViewFriday">Friday</string>
+    <string name="textViewRoom">Room</string>
+    <string name="buttonFindSubject">Find</string>
+    <string name="butttonAddGrade">Add grade</string>
+    <string name="textViewGrade">Grade</string>
+    <string name="textEditFindSubject">Entry subject</string>
+    <string name="textEditFindTypeSubject">Entry type subject</string>
+    <string name="textEditAddGrade">Entry grade after find</string>
+    <string name="buttonDeleteDataSubject">Delete</string>
+    <string name="buttonAvarage">Avarage</string>
+    <string name="buttonAvarageAdd">Add to avarage</string>
+    <string name="buttonAvarageCalc">Count the average</string>
+</resources>
