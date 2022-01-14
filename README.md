@@ -1,2 +1,2 @@
 # PAM Damian Pasieczny
-na ocene 4.5
+na ocenę 4.5 / 4
